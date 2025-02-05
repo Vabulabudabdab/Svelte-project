@@ -1,6 +1,5 @@
 <script>
     import {Link, Route, Router} from "svelte-routing";
-    import Login from "./Login.svelte";
 
 </script>
 
